@@ -1,0 +1,7 @@
+{
+    "ganache_url": "http://127.0.0.1:7545",
+    "account_address": "REPLACE_WITH_YOUR_GANACHE_ACCOUNT",
+    "private_key": "REPLACE_WITH_YOUR_PRIVATE_KEY",
+    "solc_version": "0.8.20",
+    "gas_limit": 3000000
+}
